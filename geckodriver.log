@@ -485,3 +485,389 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: DataCloneError: The object could not be cloned.
 JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
 JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633902629819	geckodriver	INFO	Listening on 127.0.0.1:62213
+1633902633006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofile9ljtKH"
+1633902633688	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofile9ljtKH\\search.json.mozlz4", (void 0)))
+1633902637834	Marionette	INFO	Listening on port 62221
+1633902637881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMn54/yi/l/vi_VN/sdLU8ytqjXx.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1633902642496	Marionette	INFO	Stopped listening on port 62221
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nhl0m\AppData\Local\Temp\rust_mozprofile9ljtKH\protections.sqlite
+1633902643413	geckodriver	INFO	Listening on 127.0.0.1:62272
+1633902646591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileGIrN1W"
+1633902647336	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileGIrN1W\\search.json.mozlz4", (void 0)))
+1633902651090	Marionette	INFO	Listening on port 62282
+1633902651402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633902652025	Marionette	INFO	Stopped listening on port 62282
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633902652992	geckodriver	INFO	Listening on 127.0.0.1:62314
+1633902656055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofile2xLSjU"
+1633902656694	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofile2xLSjU\\search.json.mozlz4", (void 0)))
+1633902659748	Marionette	INFO	Listening on port 62322
+1633902659797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633902660552	Marionette	INFO	Stopped listening on port 62322
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633902661888	geckodriver	INFO	Listening on 127.0.0.1:62355
+1633902664910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofilegDjlwI"
+1633902665505	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofilegDjlwI\\search.json.mozlz4", (void 0)))
+1633902668315	Marionette	INFO	Listening on port 62364
+1633902668631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633902669083	Marionette	INFO	Stopped listening on port 62364
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9036, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.
+1633902670572	geckodriver	INFO	Listening on 127.0.0.1:62395
+1633902673618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileMLXzCz"
+1633902674016	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileMLXzCz\\search.json.mozlz4", (void 0)))
+1633902676692	Marionette	INFO	Listening on port 62403
+1633902676802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633902677332	Marionette	INFO	Stopped listening on port 62403
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633902740850	geckodriver	INFO	Listening on 127.0.0.1:62460
+1633902743953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofilebsPdbq"
+1633902744433	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofilebsPdbq\\search.json.mozlz4", (void 0)))
+1633902751943	Marionette	INFO	Listening on port 62468
+1633902752298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMn54/yi/l/vi_VN/sdLU8ytqjXx.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1633902756789	Marionette	INFO	Stopped listening on port 62468
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\nhl0m\AppData\Local\Temp\rust_mozprofilebsPdbq\protections.sqlite
+1633902757674	geckodriver	INFO	Listening on 127.0.0.1:62525
+1633902760788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileS0FVcj"
+1633902761344	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileS0FVcj\\search.json.mozlz4", (void 0)))
+1633902765227	Marionette	INFO	Listening on port 62533
+1633902765650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633902766090	Marionette	INFO	Stopped listening on port 62533
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: , line 0: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+1633902766997	geckodriver	INFO	Listening on 127.0.0.1:62584
+1633902770112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofile8iJuc4"
+1633902770938	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofile8iJuc4\\search.json.mozlz4", (void 0)))
+1633902774300	Marionette	INFO	Listening on port 62620
+1633902774799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633902775320	Marionette	INFO	Stopped listening on port 62620
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633902776626	geckodriver	INFO	Listening on 127.0.0.1:62665
+1633902779647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileG4eAkq"
+1633902780104	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileG4eAkq\\search.json.mozlz4", (void 0)))
+1633902783696	Marionette	INFO	Listening on port 62683
+1633902783886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633902784432	Marionette	INFO	Stopped listening on port 62683
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: "Could not load engine wikipedia@search.mozilla.org: Error: Unable to arm timer, the object has been finalized."
+console.error: "Could not load engine coccoc@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://gre/modules/JSONFile.jsm:186:13
+getListeners@resource://gre/modules/PushBroadcastService.jsm:66:5
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1633959624917	geckodriver	INFO	Listening on 127.0.0.1:62763
+1633959628123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofilehaV39Y"
+1633959628707	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofilehaV39Y\\search.json.mozlz4", (void 0)))
+1633959631692	Marionette	INFO	Listening on port 62771
+1633959631909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633959636902	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633959638480	Marionette	INFO	Stopped listening on port 62771
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 1524, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633959639705	geckodriver	INFO	Listening on 127.0.0.1:62814
+1633959642732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofilelUD5xR"
+1633959643132	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofilelUD5xR\\search.json.mozlz4", (void 0)))
+1633959645535	Marionette	INFO	Listening on port 62822
+1633959645944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633959650786	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633959652362	Marionette	INFO	Stopped listening on port 62822
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633959653396	geckodriver	INFO	Listening on 127.0.0.1:62866
+1633959656432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofilesjeHZo"
+1633959656827	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofilesjeHZo\\search.json.mozlz4", (void 0)))
+1633959659312	Marionette	INFO	Listening on port 62874
+1633959659624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633959659874	Marionette	INFO	Stopped listening on port 62874
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 687: Error: Connection closed before committing the transaction.
+1633959660677	geckodriver	INFO	Listening on 127.0.0.1:62903
+1633959663724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofilegQER2p"
+1633959664138	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofilegQER2p\\search.json.mozlz4", (void 0)))
+1633959666966	Marionette	INFO	Listening on port 62911
+1633959667451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633959672267	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633959673841	Marionette	INFO	Stopped listening on port 62911
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 5156, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633959707582	geckodriver	INFO	Listening on 127.0.0.1:62955
+1633959710620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofiledZ8MnV"
+1633959711026	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofiledZ8MnV\\search.json.mozlz4", (void 0)))
+1633959713911	Marionette	INFO	Listening on port 62963
+1633959714324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633959719146	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633959720721	Marionette	INFO	Stopped listening on port 62963
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633959721558	geckodriver	INFO	Listening on 127.0.0.1:63006
+1633959724619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileOcMN8s"
+1633959725106	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileOcMN8s\\search.json.mozlz4", (void 0)))
+1633959727806	Marionette	INFO	Listening on port 63014
+1633959727843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633959732740	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633959734302	Marionette	INFO	Stopped listening on port 63014
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633959735253	geckodriver	INFO	Listening on 127.0.0.1:63057
+1633959738309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofilesG4ZUH"
+1633959738677	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofilesG4ZUH\\search.json.mozlz4", (void 0)))
+1633959741105	Marionette	INFO	Listening on port 63065
+1633959741501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633959746314	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633959747886	Marionette	INFO	Stopped listening on port 63065
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633959749288	geckodriver	INFO	Listening on 127.0.0.1:63108
+1633959752326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofilejajqZo"
+1633959752729	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofilejajqZo\\search.json.mozlz4", (void 0)))
+1633959755276	Marionette	INFO	Listening on port 63116
+1633959755540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633959760452	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633959762031	Marionette	INFO	Stopped listening on port 63116
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 1528, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633960053568	geckodriver	INFO	Listening on 127.0.0.1:63193
+1633960056624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileR1q9RX"
+1633960057097	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileR1q9RX\\search.json.mozlz4", (void 0)))
+1633960059939	Marionette	INFO	Listening on port 63201
+1633960060432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633960065267	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633960066840	Marionette	INFO	Stopped listening on port 63201
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 3520, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633960067599	geckodriver	INFO	Listening on 127.0.0.1:63245
+1633960070649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileQZs3X6"
+1633960071122	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileQZs3X6\\search.json.mozlz4", (void 0)))
+1633960073709	Marionette	INFO	Listening on port 63253
+1633960073957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633960078798	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633960080375	Marionette	INFO	Stopped listening on port 63253
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 4816, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633960081217	geckodriver	INFO	Listening on 127.0.0.1:63296
+1633960084279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileKQXGlO"
+1633960084675	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileKQXGlO\\search.json.mozlz4", (void 0)))
+1633960087122	Marionette	INFO	Listening on port 63304
+1633960087516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633960092354	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633960093930	Marionette	INFO	Stopped listening on port 63304
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633960094775	geckodriver	INFO	Listening on 127.0.0.1:63348
+1633960097810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileDKfqkE"
+1633960098175	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileDKfqkE\\search.json.mozlz4", (void 0)))
+1633960100739	Marionette	INFO	Listening on port 63356
+1633960101003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633960105833	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633960107407	Marionette	INFO	Stopped listening on port 63356
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 952, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633960248685	geckodriver	INFO	Listening on 127.0.0.1:63420
+1633960251722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileRvXTxc"
+1633960252095	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileRvXTxc\\search.json.mozlz4", (void 0)))
+1633960254494	Marionette	INFO	Listening on port 63428
+1633960254937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633960259787	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633960261364	Marionette	INFO	Stopped listening on port 63428
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633960262325	geckodriver	INFO	Listening on 127.0.0.1:63472
+1633960265353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofilen69SVV"
+1633960265752	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofilen69SVV\\search.json.mozlz4", (void 0)))
+1633960268231	Marionette	INFO	Listening on port 63480
+1633960268541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633960273363	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633960274939	Marionette	INFO	Stopped listening on port 63480
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633960275759	geckodriver	INFO	Listening on 127.0.0.1:63523
+1633960278785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileMOdTMr"
+1633960279208	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileMOdTMr\\search.json.mozlz4", (void 0)))
+1633960281642	Marionette	INFO	Listening on port 63531
+1633960281988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633960286813	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633960288387	Marionette	INFO	Stopped listening on port 63531
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633960289335	geckodriver	INFO	Listening on 127.0.0.1:63574
+1633960292367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileyv4Xq6"
+1633960292739	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nhl0m\\AppData\\Local\\Temp\\rust_mozprofileyv4Xq6\\search.json.mozlz4", (void 0)))
+1633960295371	Marionette	INFO	Listening on port 63582
+1633960295583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633960300408	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633960301976	Marionette	INFO	Stopped listening on port 63582
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 8636, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
